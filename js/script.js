@@ -6,7 +6,7 @@ console.log(age);
 const value=3.14;
 console.log(value);
 
-//output:lokesh,20,3,14
+//output:lokesh,20,3.14
 */
 
 
